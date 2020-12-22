@@ -1,0 +1,3 @@
+<?php
+$descuento=20;
+?>

@@ -1,0 +1,2 @@
+1	200	12:00	150	kechua	chuga
+2	400	13:30	200	chugyu  chuga
